@@ -1,0 +1,15 @@
+High level idea:
+
+Create an app where business can entice users with special offers on a realtime basis.
+
+User Stories
+
+-Business sign up for service
+-Business login to site
+-Business view all active, inactive, snatched offers
+-Business activate, upate and deactivate offers
+-Business view offer statistics
+-User sign up
+-User login site
+-User search for offers by categories
+-User take offers
