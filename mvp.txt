@@ -4,3 +4,5 @@ Minimum Viable Product
 -Business create,activate, upate and deactivate offers
 -Business view offer statistics
 -User search for offers by categories
+
+
